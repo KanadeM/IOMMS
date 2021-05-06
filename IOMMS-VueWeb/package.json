@@ -15,7 +15,7 @@
     "echarts": "^4.2.1",
     "element-ui": "^2.9.2",
     "jquery": "^3.4.1",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "vue": "^2.5.2",
     "vue-axios": "^2.1.4",
     "vue-echarts": "^4.0.3",
